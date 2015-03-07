@@ -633,6 +633,8 @@ Try typing:
             break
 
 
+---
+
 #Let's learn to edit.
 
 Click on the mbu_assignment.py
