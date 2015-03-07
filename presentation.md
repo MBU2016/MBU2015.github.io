@@ -173,6 +173,8 @@ What is programming?
 
 You can think of a program as a procedure.
 
+---
+
 #Let's write a short procedure to show someone how to make some hot chocolate!
 
 ##The goal is to create a procedure that someone else can easily follow to accomplish the task.
@@ -218,6 +220,10 @@ You can think of a program as a procedure.
 1. Add the marshmallows.
 1. Wait until the hot chocolate cools to a comfortable level.
 1. Drink up!
+
+---
+
+# We just wrote a program to make hot chocolate!
 
 ---
 
@@ -275,6 +281,15 @@ If the milk is cold, heat it. Otherwise continue the procedure.
 ---
 
 ## Where else can we use a conditional?
+1. Put the liquid in the pot.
+1. Place the pot of the stove.
+1. Turn the heat on.
+1. When the liquid is hot, pour it into the mug.
+1. Add the hot chocolate mix.
+1. Stir.
+1. Add the marshmallows.
+1. Wait until the hot chocolate cools to a comfortable level.
+1. Drink up!
 ---
 
 ## Where else can we use a conditional?
