@@ -58,7 +58,9 @@ If not, go [here](http://www.scouting.org/cyberchip.aspx).
  - Describe the evolution of programming methods and how they have
    improved over time.
 
+[BBC Computer history](http://www.bbc.co.uk/timelines/zxsrcdm#zwy49j6)
 
+[Boy's Life](http://boyslife.org/section/about-scouts/merit-badge-resources/programming/)
 ---
 = data-x="1000" data-scale="1" data-rotate-x="90"
 ## 3. General Knowledge (You!)
