@@ -209,6 +209,8 @@ You can think of a program as a procedure.
 #Wait until the hot chocolate cools to a comfortable level.
 ---
 #Drink up!
+
+
 ---
 #Putting it all together
 1. Put the liquid in the pot.
@@ -290,6 +292,8 @@ If the milk is cold, heat it. Otherwise continue the procedure.
 1. Add the marshmallows.
 1. Wait until the hot chocolate cools to a comfortable level.
 1. Drink up!
+
+
 ---
 
 ## Where else can we use a conditional?
@@ -519,6 +523,7 @@ This will open up an interactive interpreter for Python. We can type in differen
 ---
 
 Try typing:
+
     1 + 1
 
 ---
