@@ -10,11 +10,10 @@ title: 2015 Merit Badge University @ Harvard - Programming
 # Instructors
 - Stephen Bosak (sbosak@gmail.com)
 - Dan Kurtzer (dsk19360@gmail.com)
-- Willy Xiao (wxiao@college.harvard.edu)
 - Natalie Westerman (nlwesterman@gmail.com)
 - John Byrnes (john@johnbyrnes.info)
 
-- Please email [MBU2015@gmail.com](mailto:mbu2015@gmail.com) on every email you send.
+- Please email [MBU2016@gmail.com](mailto:mbu2016@gmail.com) on every email you send.
 
 ---
 = data-x="1000" data-scale="1" data-rotate-x="90"
@@ -24,7 +23,7 @@ title: 2015 Merit Badge University @ Harvard - Programming
 - Doing your own work!
 
 ---
-= data-x="1000" data-scale="1"
+= data-x="1000" dat6-scale="1"
 # Our responsibilities
 - Providing guidance and instruction
 - Grading in a timely manner
@@ -35,7 +34,7 @@ title: 2015 Merit Badge University @ Harvard - Programming
 ## Do not have your parents contact us for help.
 - You are responsible for earning the badge, not your parents.
 - Email any or all of the instructors and we will help you.
-- *Please* email [MBU2015@gmail.com](mailto:mbu2015@gmail.com) on
+- *Please* email [MBU2016@gmail.com](mailto:mbu2016@gmail.com) on
   every email you send.
 
 ---
@@ -126,7 +125,7 @@ you want, we would like to suggest three:
 
 - [Python](https://www.python.org/)
 - [C++](https://en.wikipedia.org/wiki/C%2B%2B)
-- [Mozilla AppMaker](https://apps.webmaker.org/designer)
+- [Scratch](https://scratch.mit.edu)
 
 We have the most experience with these languages and should be able to
 help you effectively.
@@ -143,7 +142,7 @@ online tools:
   environment. They provide all the necessary tools needed to program
   for this merit badge.
 
-- [Mozilla AppMaker](https://apps.webmaker.org/designer) (Seriously cool!)
+- [Scratch](https://scratch.mit.edu) (Seriously cool!)
 
 ---
 = data-y="1000" data-scale="1"
