@@ -1,7 +1,7 @@
 ---
-title: 2015 Merit Badge University @ Harvard - Programming
+title: 2016 Merit Badge University @ Harvard - Programming
 ---
-#2015 Merit Badge University
+#2016 Merit Badge University
 # @Harvard
 ### Programming Badge
 
@@ -67,8 +67,11 @@ If not, go [here](http://www.scouting.org/cyberchip.aspx).
 ###Do the following:
 
 
- - Create a list of 10 popular programming languages in use today and describe which industry or industries they are primarily used in and why.
- - Describe three different programmed devices you rely on every day.
+ - Create a list of 10 popular programming languages in use today and
+   describe which industry or industries they are primarily used in
+   and why.
+
+- Describe three different programmed devices you rely on every day.
 
 ---
 = data-y="1000" data-scale="1" data-rotate-x="90"
@@ -136,7 +139,7 @@ help you effectively.
 In order for us to get up to speed quickly, we're going to use some
 online tools:
 
-- [Github](https://www.github.com/MBU2015) - A place to put source code.
+- [Github](https://www.github.com/MBU2016) - A place to put source code.
 
 - [Cloud9](https://www.c9.io) - An online development
   environment. They provide all the necessary tools needed to program
@@ -146,10 +149,8 @@ online tools:
 
 ---
 = data-y="1000" data-scale="1"
-# GitHub
-- [Make sure you have a GitHub account](https://github.com/)!
-- Email [John  Byrnes](mailto:john@johnbyrnes.info) your  account name
-  and he will add you to the class account.
+# Cloud9
+- [Make sure you have a GitHub account](https://c9.io/)!
 
 ---
 ##Programming
@@ -456,20 +457,6 @@ Functions produce an output from a number of inputs.
 
 ---
 
-#Let's get the example program
-
----
-
-#Log into Github
-
----
-
-#Go to the MBU Python Demo Application
-
-https://github.com/MBU2015/2015-MBU-programming-python
-
----
-
 #Press the "Fork" Buttom
 
 This makes a copy of the demo program in your workspace.
@@ -478,26 +465,15 @@ This makes a copy of the demo program in your workspace.
 
 #Open up Cloud9
 
-Go to http://c9.io and log in with your Github account.
+Go to http://c9.io and log in with your shiny new account!
 
----
+Click on "Create a new workspace"
 
-# Click on the 2015-MBU-programming-python project
-## Hint: It's on the left hand side
+Select "Python" and copy the following URL into the "Clone from git"
+textbox.
 
----
+https://github.com/MBU2016/2016-MBU-programming-python
 
-## Press "Clone to Edit"
-
-
----
-
-## On the next dialog, leave the selection at "Custom" and press Create.
-
-
----
-
-##When C9 is done, press "Start Editing" to open the environment.
 
 ---
 

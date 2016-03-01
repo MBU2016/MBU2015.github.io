@@ -1,7 +1,7 @@
 ---
-title: 2015 Merit Badge University @ Harvard - Programming
+title: 2016 Merit Badge University @ Harvard - Programming
 ---
-#2015 Merit Badge University
+#2016 Merit Badge University
 # @Harvard
 ### Programming Badge
 #### Session 2
@@ -10,19 +10,10 @@ title: 2015 Merit Badge University @ Harvard - Programming
 # Instructors
 - Stephen Bosak (sbosak@gmail.com)
 - Dan Kurtzer (dsk19360@gmail.com)
-- Willy Xiao (wxiao@college.harvard.edu)
 - Natalie Westerman (nlwesterman@gmail.com)
 - John Byrnes (john@johnbyrnes.info)
 
-- Please email [MBU2015@gmail.com](mailto:mbu2015@gmail.com) on every email you send.
-
----
-= data-x="1000" data-scale="1"
-
-# Congratulations to Willy Xiao!
-
-His table tennis club made it to Nationals!
-
+- Please email [MBU2016@gmail.com](mailto:mbu2016@gmail.com) on every email you send.
 
 ---
 = data-x="1000" data-scale="1"
